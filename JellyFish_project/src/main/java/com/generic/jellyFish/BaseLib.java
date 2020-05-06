@@ -38,6 +38,7 @@ public class BaseLib
 	   public static ExtentHtmlReporter extent;
 	   public static ExtentReports report;
 	   public static ExtentTest logger;
+	   //this a test comment
 	   
 	 @BeforeSuite
 	 public void setSuiteUp()
